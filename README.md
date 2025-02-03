@@ -1,6 +1,6 @@
 # Project Description
 
-Healthucate is an android app that is based on health and fitness. The project is built in Android Studio platform using Java and Sqlite.
+Health & Fitness is an android app that is based on health and fitness. The project is built in Android Studio platform using Java and Sqlite.
 
 ## Features:
 1. User Login and Registration System
@@ -20,7 +20,7 @@ Android Studio
 
 ## Project Demo:
 
-
+https://github.com/user-attachments/assets/ba56cd01-11cb-4518-bcbd-51a7bd5debd9
 
 
 
